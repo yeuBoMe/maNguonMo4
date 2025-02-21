@@ -94,3 +94,5 @@ X-Akamai-Request-ID: 1395ad58
 2025-02-21T10:17:44+00:00 DEBUG Tt4b_Pixel_Class::inject_view_content_event: Missing option "access_token"
 2025-02-21T10:51:48+00:00 DEBUG tt4b_product_delete: missing access token for tt4b_product_sync
 2025-02-21T10:52:51+00:00 DEBUG tt4b_product_untrashed: missing access token for tt4b_product_sync
+2025-02-21T11:37:18+00:00 DEBUG Tt4b_Pixel_Class::inject_view_content_event: hit ViewContent
+2025-02-21T11:37:18+00:00 DEBUG Tt4b_Pixel_Class::inject_view_content_event: Missing option "access_token"
