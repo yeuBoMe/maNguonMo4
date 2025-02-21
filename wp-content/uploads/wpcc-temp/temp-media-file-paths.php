@@ -1,0 +1,22 @@
+<?php return "C:\\xamppp\\htdocs\\hoaiNinh/wp-content/uploads/2025/02/173ea521-123e-4b6d-becf-47bc6be977f4_bee82afb182b463689b19f49b68ab609_master.jpg
+C:\\xamppp\\htdocs\\hoaiNinh\\wp-content\\uploads\\2025\\02\\173ea521-123e-4b6d-becf-47bc6be977f4_bee82afb182b463689b19f49b68ab609_master.jpg
+C:\\xamppp\\htdocs\\hoaiNinh/wp-content/uploads/2025/02/173ea521-123e-4b6d-becf-47bc6be977f4_bee82afb182b463689b19f49b68ab609_compact.jpg
+C:\\xamppp\\htdocs\\hoaiNinh\\wp-content\\uploads\\2025\\02\\173ea521-123e-4b6d-becf-47bc6be977f4_bee82afb182b463689b19f49b68ab609_compact.jpg
+C:\\xamppp\\htdocs\\hoaiNinh/wp-content/uploads/2025/02/afb164ab-889d-4333-a3c8-e0691968adac_36e41e9fe4964c81b23c212d401e767f_compact.jpg
+C:\\xamppp\\htdocs\\hoaiNinh\\wp-content\\uploads\\2025\\02\\afb164ab-889d-4333-a3c8-e0691968adac_36e41e9fe4964c81b23c212d401e767f_compact.jpg
+C:\\xamppp\\htdocs\\hoaiNinh/wp-content/uploads/2025/02/fwtv001-3_54066228300_o_625bea69bb5149d694d41abd0a438d34_compact.jpg
+C:\\xamppp\\htdocs\\hoaiNinh\\wp-content\\uploads\\2025\\02\\fwtv001-3_54066228300_o_625bea69bb5149d694d41abd0a438d34_compact.jpg
+C:\\xamppp\\htdocs\\hoaiNinh/wp-content/uploads/2025/02/fwtv001-4_54066026373_o_8143e8635ee648e6972ac9e8d75979e2_compact.jpg
+C:\\xamppp\\htdocs\\hoaiNinh\\wp-content\\uploads\\2025\\02\\fwtv001-4_54066026373_o_8143e8635ee648e6972ac9e8d75979e2_compact.jpg
+C:\\xamppp\\htdocs\\hoaiNinh/wp-content/uploads/2025/02/fwtv001-5_54064898332_o_2775add27b8b46bc92ab1f4c026ffc75_compact.jpg
+C:\\xamppp\\htdocs\\hoaiNinh\\wp-content\\uploads\\2025\\02\\fwtv001-5_54064898332_o_2775add27b8b46bc92ab1f4c026ffc75_compact.jpg
+C:\\xamppp\\htdocs\\hoaiNinh/wp-content/uploads/2025/02/fwtv001-fstp073-fabt010_54064898317_o_a1c9c1a5ad3d433b93a064cae2e6f5f6_compact.jpg
+C:\\xamppp\\htdocs\\hoaiNinh\\wp-content\\uploads\\2025\\02\\fwtv001-fstp073-fabt010_54064898317_o_a1c9c1a5ad3d433b93a064cae2e6f5f6_compact.jpg
+C:\\xamppp\\htdocs\\hoaiNinh/wp-content/uploads/2025/02/466407263_969854811854767_2056460342409471579_n_grande.jpg
+C:\\xamppp\\htdocs\\hoaiNinh\\wp-content\\uploads\\2025\\02\\466407263_969854811854767_2056460342409471579_n_grande.jpg
+C:\\xamppp\\htdocs\\hoaiNinh/wp-content/uploads/2025/02/fwtv001-fstp073-fabt010_54064898317_o_grande.jpg
+C:\\xamppp\\htdocs\\hoaiNinh\\wp-content\\uploads\\2025\\02\\fwtv001-fstp073-fabt010_54064898317_o_grande.jpg
+C:\\xamppp\\htdocs\\hoaiNinh/wp-content/uploads/2025/02/fwtv001-2_54066026358_o_grande.jpg
+C:\\xamppp\\htdocs\\hoaiNinh\\wp-content\\uploads\\2025\\02\\fwtv001-2_54066026358_o_grande.jpg
+C:\\xamppp\\htdocs\\hoaiNinh/wp-content/uploads/2025/02/fwtv001-4_54066026373_o_grande.jpg
+C:\\xamppp\\htdocs\\hoaiNinh\\wp-content\\uploads\\2025\\02\\fwtv001-4_54066026373_o_grande.jpg";
